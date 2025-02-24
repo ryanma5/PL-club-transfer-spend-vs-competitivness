@@ -12,6 +12,7 @@ I want to create a visualization that plots the relationship between Premier Lea
 -	League points data: [fbref.com](https://fbref.com/en/comps/9/2020-2021/2020-2021-Premier-League-Stats) <sup>league table for one season</sup>
 
 ## Methodology
+
 ### Data Collection (Python)
 - Scrapped and compiled transfer spending data from transfermarkt.com using BeautifulSoup library
 - Scrapped and compiled league points data from transfermarkt.com
@@ -32,7 +33,9 @@ I want to create a visualization that plots the relationship between Premier Lea
 -	Investigate and incorporate additional variables (e.g. Youth facility investments, wages, manager hire spending etc.) to improve explanatory power of the model
 
 ## Repository Structure
+
 | File | Content |
+| ------ | ------ |
 | [PL_5_year_league_table.ipynb](PL-club-transfer-spend-vs-competitivness/PL_5_year_league_table.ipynb) | Jupyter notebook for scrapping league points data from fbref.com |
 | [PL_5_year_net_spend.ipynb](PL-club-transfer-spend-vs-competitivness/PL_5_year_net_spend.ipynb) | Jupyter notebook for scrapping net transfer spend data from transfermarkt.com |
 | [Best_run_PL_clubs.ipynb](PL-club-transfer-spend-vs-competitivness/Best_run_PL_clubs.ipynb) | Jupyter notebook for data cleaning/manipulation and merging of datasets |
