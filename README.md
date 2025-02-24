@@ -36,9 +36,9 @@ I want to create a visualization that plots the relationship between Premier Lea
 
 | File | Content |
 | ------ | ------ |
-| [PL_5_year_league_table.ipynb](PL-club-transfer-spend-vs-competitivness/PL_5_year_league_table.ipynb) | Jupyter notebook for scrapping league points data from fbref.com |
-| [PL_5_year_net_spend.ipynb](PL-club-transfer-spend-vs-competitivness/PL_5_year_net_spend.ipynb) | Jupyter notebook for scrapping net transfer spend data from transfermarkt.com |
-| [Best_run_PL_clubs.ipynb](PL-club-transfer-spend-vs-competitivness/Best_run_PL_clubs.ipynb) | Jupyter notebook for data cleaning/manipulation and merging of datasets |
+| [PL_5_year_league_table.ipynb](PL_5_year_league_table.ipynb) | Jupyter notebook for scrapping league points data from fbref.com |
+| [PL_5_year_net_spend.ipynb](PL_5_year_net_spend.ipynb) | Jupyter notebook for scrapping net transfer spend data from transfermarkt.com |
+| [Best_run_PL_clubs.ipynb](Best_run_PL_clubs.ipynb) | Jupyter notebook for data cleaning/manipulation and merging of datasets |
 
 
 
